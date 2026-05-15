@@ -7,6 +7,7 @@ The company wants to identify customers who are likely to stop using its service
 # 📂 Dataset Source  
 - Name: Customer Churn Dataset  
 - Origin: Google Drive (shared dataset)  
+- Direct Download Link: https://drive.google.com/uc?id=1Gn9-RV7YzH3hJFKd2CO39hMOs83li9Tx  
 
 # 📑 Dataset Description  
 - Size: ~7,000 rows  
